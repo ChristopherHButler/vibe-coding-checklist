@@ -10,13 +10,35 @@ _Use this checklist when vibe coding a new app_
 
 _Add description here_
 
+### Target Market / User
 
-## Main App Functionality
- - [ ]
- - [ ]
+_Define who the target users are_
 
 
-## Public Pages and Popups
+### Core Problem
+
+_Explain what core problem this app solves_
+
+
+### Must-Have Features (MVP)
+
+_List the core features that must be included at launch_
+
+ - [ ] 
+ - [ ] 
+ - [ ] 
+
+
+### Future Features
+
+_List features that can be added later after launch_
+
+ - [ ] 
+ - [ ] 
+ - [ ] 
+
+
+## Public Pages, Privacy and COmpliance
  - [ ] Cookie consent / GDPR
  - [ ] Landing/Home page with hero, value props, CTA
  - [ ] About page (team, mission, story)
